@@ -1,0 +1,15 @@
+C:\Users\Drake\source\repos\WPF 01C\WPF 01C\bin\Debug\WPF 01C.exe.config
+C:\Users\Drake\source\repos\WPF 01C\WPF 01C\bin\Debug\WPF 01C.exe
+C:\Users\Drake\source\repos\WPF 01C\WPF 01C\bin\Debug\WPF 01C.pdb
+C:\Users\Drake\source\repos\WPF 01C\WPF 01C\obj\Debug\WPF 01C.csprojAssemblyReference.cache
+C:\Users\Drake\source\repos\WPF 01C\WPF 01C\obj\Debug\MainWindow.g.cs
+C:\Users\Drake\source\repos\WPF 01C\WPF 01C\obj\Debug\App.g.cs
+C:\Users\Drake\source\repos\WPF 01C\WPF 01C\obj\Debug\WPF 01C_MarkupCompile.cache
+C:\Users\Drake\source\repos\WPF 01C\WPF 01C\obj\Debug\WPF 01C_MarkupCompile.lref
+C:\Users\Drake\source\repos\WPF 01C\WPF 01C\obj\Debug\MainWindow.baml
+C:\Users\Drake\source\repos\WPF 01C\WPF 01C\obj\Debug\WPF 01C.g.resources
+C:\Users\Drake\source\repos\WPF 01C\WPF 01C\obj\Debug\WPF_01C.Properties.Resources.resources
+C:\Users\Drake\source\repos\WPF 01C\WPF 01C\obj\Debug\WPF 01C.csproj.GenerateResource.cache
+C:\Users\Drake\source\repos\WPF 01C\WPF 01C\obj\Debug\WPF 01C.csproj.CoreCompileInputs.cache
+C:\Users\Drake\source\repos\WPF 01C\WPF 01C\obj\Debug\WPF 01C.exe
+C:\Users\Drake\source\repos\WPF 01C\WPF 01C\obj\Debug\WPF 01C.pdb

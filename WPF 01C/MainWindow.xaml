@@ -1,0 +1,18 @@
+﻿<Window x:Class="WPF_01C.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_01C"
+        mc:Ignorable="d"
+        Title="My First GUI" Height="350" Width="525
+        ">
+    <!--  XAML -> Extensivel Application Markup Language  -->
+    <Grid>
+        <Button Content="Click Me" Height="50" Width="100"></Button>
+        <Button Content="Don't Click Me" Height="50" Width="100" Margin="209,190,209.4,80.8"></Button>
+        <Button Height="50" Width="100" Margin="314,135,104.4,135.8" Click="Button_Click">
+            Thanks for not clicking me
+        </Button>
+    </Grid>
+</Window>
